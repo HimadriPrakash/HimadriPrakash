@@ -28,6 +28,6 @@
 <div align="center">
   
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HimadriPrakash&theme=blue-green&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HimadriPrakash&theme=blue-green&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   </div>
   
