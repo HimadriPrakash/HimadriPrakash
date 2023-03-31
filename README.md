@@ -14,6 +14,7 @@
   <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="50px"/>
 </h1>
 :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -21,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
 :fire: My Stats :
 <div align="center">
   
